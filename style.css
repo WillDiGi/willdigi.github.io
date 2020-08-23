@@ -55,13 +55,6 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
   display:block;
 }
 
-.group:after {
-  content:" ";
-  display:block;
-  height:0;
-  clear:both;
-  visibility:hidden;
-}
 
 small {
   font-size: 0.8em;
