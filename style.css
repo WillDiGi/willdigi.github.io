@@ -329,7 +329,7 @@ Header (Logo etc)
 }
 
 .logo {
-  float: left;
+  float: center;
 }
 
 .logo h1 {
